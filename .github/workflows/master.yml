@@ -2,7 +2,7 @@ name: Hola Mundo Workflows
 on:
   push:
     branches:
-      - main
+      - master
 jobs:
   hola-mundo:
     runs-on: ubuntu-latest
