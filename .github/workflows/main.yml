@@ -1,4 +1,4 @@
-```yaml
+yaml
 name: Hola Mundo Workflow
 on:
  push:
@@ -10,4 +10,3 @@ jobs:
   steps:
    -name: Print greeting
     run: echo "Hola Mundo"
-```
