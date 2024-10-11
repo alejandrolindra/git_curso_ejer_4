@@ -1,4 +1,4 @@
-name: Hola Mundo Workflows
+name: Hola Mundo Workflow
 on:
   push:
     branches:
