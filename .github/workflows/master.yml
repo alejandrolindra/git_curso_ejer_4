@@ -1,4 +1,4 @@
-name: Hola Mundo Workflow
+name: Hola Mundo Workflows
 on:
   push:
     branches:
@@ -9,3 +9,4 @@ jobs:
     steps:
       - name: Print greeting
         run: echo "Hola Mundo"
+        
